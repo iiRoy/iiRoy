@@ -7,7 +7,7 @@
 	</a>
 </h1>
 
-<h2><img src = "./about_me.png"></h2>
+<h2><img src = "./about_me_v2.png"></h2>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iiRoy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rodrigo's Github Stats">
 
