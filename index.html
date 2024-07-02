@@ -15,20 +15,26 @@
             return cstTime.getHours();
         }
 
-        const hourInCST = getHourInCST();
+        function showImageBasedOnTime() {
+            const hourInCST = getHourInCST();
 
-        // Determinar qué imagen mostrar basado en la hora
-        let imageToShow;
-        if (hourInCST >= 18 || hourInCST < 8) {
-            imageToShow = "https://i0.wp.com/dibujokawaii.com/wp-content/uploads/2022/12/como-dibujar-una-luna-kawaii.png";
-        } else if (hourInCST >= 8 && hourInCST < 16) {
-            imageToShow = "https://st.depositphotos.com/1000792/3338/v/450/depositphotos_33381611-stock-illustration-smiling-sun.jpg";
-        } else {
-            imageToShow = "https://www.ngenespanol.com/wp-content/uploads/2023/06/el-sol-asi-es-la-estrella-de-nuestro-sistema-planetario-1280x720.jpg";
+            // Determinar qué imagen mostrar basado en la hora
+            let imageToShow;
+            if (hourInCST >= 18 || hourInCST < 8) {
+                imageToShow = "https://i0.wp.com/dibujokawaii.com/wp-content/uploads/2022/12/como-dibujar-una-luna-kawaii.png";
+            } else if (hourInCST >= 8 && hourInCST < 16) {
+                imageToShow = "https://st.depositphotos.com/1000792/3338/v/450/depositphotos_33381611-stock-illustration-smiling-sun.jpg";
+            } else {
+                imageToShow = "https://www.ngenespanol.com/wp-content/uploads/2023/06/el-sol-asi-es-la-estrella-de-nuestro-sistema-planetario-1280x720.jpg";
+            }
+
+            // Mostrar la imagen correspondiente
+            document.write('<img src="' + imageToShow + '" alt="Imagen Dinámica">');
         }
 
-        // Mostrar la imagen correspondiente
-        document.write('<img src="' + imageToShow + '" alt="Imagen Dinámica">');
+        // Llamar a la función para mostrar la imagen cuando la página se carga
+        showImageBasedOnTime();
     </script>
+    <h1>Hello!</h1>
 </body>
 </html>
