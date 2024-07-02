@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">
+Hello, I'm Rodrigo López!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 
 <!--
 **iiRoy/iiRoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
