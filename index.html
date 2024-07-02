@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imágenes Dinámicas</title>
+</head>
+<body>
+    <script>
+        function getHourInCST() {
+            const currentDate = new Date();
+            // Ajustar a CST (UTC-6)
+            const cstOffset = -6 * 60 * 60 * 1000;
+            const cstTime = new Date(currentDate.getTime() + cstOffset);
+            return cstTime.getHours();
+        }
+
+        const hourInCST = getHourInCST();
+
+        // Determinar qué imagen mostrar basado en la hora
+        let imageToShow;
+        if (hourInCST >= 18 || hourInCST < 8) {
+            imageToShow = "https://i0.wp.com/dibujokawaii.com/wp-content/uploads/2022/12/como-dibujar-una-luna-kawaii.png";
+        } else if (hourInCST >= 8 && hourInCST < 16) {
+            imageToShow = "https://st.depositphotos.com/1000792/3338/v/450/depositphotos_33381611-stock-illustration-smiling-sun.jpg";
+        } else {
+            imageToShow = "https://www.ngenespanol.com/wp-content/uploads/2023/06/el-sol-asi-es-la-estrella-de-nuestro-sistema-planetario-1280x720.jpg";
+        }
+
+        // Mostrar la imagen correspondiente
+        document.write('<img src="' + imageToShow + '" alt="Imagen Dinámica">');
+    </script>
+</body>
+</html>
