@@ -2,11 +2,11 @@
 <img src = "./about_me_v2.png">
 
 <a target="_blank" align="center">
-  <img align="right" top="1000" height="300" width="300" alt="Portrait" src="./Rodrigo.png">
+  <img align="right" top="200" height="250" width="250" alt="Portrait" src="./Rodrigo.png">
 </a>
 
 <h3>
-    ‎ ‎ ‎ ‎ ‎ ‎ ‎ Hello, I'm Roy!
+    Hello, I'm Roy!
     <a href="https://github.com/iiRoy" target="_self">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
     </a>
