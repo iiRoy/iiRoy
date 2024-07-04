@@ -89,3 +89,15 @@
      </samp>
   </div>    
 </details>
+
+<details open>
+  <summary><h3>🏆 Achievements</h3></summary>
+        <p align="center">
+          <a href="https://github.com/iiRoy/">
+          <img width="100%" src="https://github-profile-trophy.vercel.app/?username=iiRoy&theme=gruvbox&no-bg=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
