@@ -5,7 +5,7 @@
 <img src = "./about_me_v2.png">
 
 <a target="_blank" align="center">
-  <img align="right" top="200" height="270" width="270" alt="Portrait" src="./Rodrigo.png">
+  <img align="right" top="200" height="250" width="250" alt="Portrait" src="./Rodrigo.png">
 </a>
 
 <h3>
