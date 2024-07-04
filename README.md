@@ -15,7 +15,7 @@
     </a>
 </h3>
 
-- 🔭 I’m currently studying a System Engineering Degree at <a href="https://tec.mx/" target="blank">ITESM</a>
+- 🔭 I’m currently studying a System Engineering at <a href="https://tec.mx/" target="blank">ITESM</a>
 
 - 🌱 I’m currently learning **App Development, Web Implementation and OpenGL.** 
 
