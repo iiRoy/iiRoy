@@ -1,10 +1,14 @@
 <!-- INFO BANNER -->
-<img src="./banner.png">
+<a href="https://github.com/iiRoy/">
+  <img src="./banner.png">
+</a>
 
 <!-- ABOUT ME SECTION -->
-<img src = "./about_me_v2.png">
+<a href="https://github.com/iiRoy/">
+  <img src = "./about_me_v2.png">
+</a>
 
-<a target="_blank" align="center">
+<a target="_blank" align="center" href="https://github.com/iiRoy/">
   <img align="right" top="200" height="250" width="250" alt="Portrait" src="./Rodrigo.png">
 </a>
 
@@ -58,7 +62,9 @@
 </p>
 
 <!-- ABOUT ME SECTION -->
-<img src = "./Skills-stats.png">
+<a href="https://github.com/iiRoy/">
+  <img src = "./Skills-stats.png">
+</a>
 
 <details open>
   <summary><h3>🌐 Languages</h3></summary>
