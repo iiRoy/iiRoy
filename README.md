@@ -1,109 +1,74 @@
-<!-- INFO BANNER -->
-<a href="https://github.com/iiRoy/">
-  <img src="./banner.png">
-</a>
-
-<!-- ABOUT ME SECTION -->
-<a href="https://github.com/iiRoy/">
-  <img src = "./about_me_v2.png">
-</a>
-
-<a target="_blank" align="center" href="https://github.com/iiRoy/">
-  <img align="right" top="200" height="250" width="250" alt="Portrait" src="./Rodrigo.png">
-</a>
-
-<h3>
-    Hello, I'm Roy!
-    <a href="https://github.com/iiRoy/" target="_self">
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-    </a>
-</h3>
-
-- 🔭 I’m currently studying a System Engineering at <a href="https://tec.mx/" target="blank">ITESM</a>
-
-- 🌱 I’m currently learning **App Development, Web Implementation and OpenGL.** 
-
-- 🤝 I’m available for freelancing.
-
-- 📝 I regularly write articles on [Placeholder](Placeholder)
-
-- 💬 Ask me about **Automatas, Flex & Yacc!**
-
-- ⚡ Fun fact: I love to be involved in social proyects in beneffit of the community!
-<br>
-
-<!-- CONTACT INFORMATION -->
-<h2 align="center">
-  You can contact me by:
-</h2>
+<!-- Banner -->
 <p align="center">
-<br/>
-  <a href="https://www.linkedin.com/in/rodrigologu/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-  <a href="https://wa.me/+5212214644391" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-  <a href="mailto:rock.gule@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-</p>
-<p align="center">
-  <a href="mailto:a01737437@tec.mx" target="blank"><img align="center"
-         src="https://img.shields.io/badge/outlook-4267B2.svg?style=for-the-badge&logo=microsoft&logoColor=white"
-         alt="azzar" height="30"/></a>
-  <a href="https://instagram.com/rdglopz" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-  <a href="https://twitter.com/rdglopz" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"
-         alt="azzar" height="30"/></a>
-<br>
+  <a href="https://github.com/iiRoy">
+    <img src="./banner.png" alt="Banner" />
+  </a>
 </p>
 
-<!-- ABOUT ME SECTION -->
-<a href="https://github.com/iiRoy/">
-  <img src = "./Skills-stats.png">
-</a>
+<h1 align="center">Rodrigo López (Roy) 👋</h1>
 
-<details open>
-  <summary><h3>🌐 Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/iiRoy/">
-          <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiRoy&langs_count=10&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Rodrigo's :: overall Top Langs" /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/iiRoy/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iiRoy&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Rodrigo's :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iiRoy&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Rodrigo's :: Top Langs by commit" />
-          </a>
-        </p>
+<p align="center">
+  Systems Engineering @ ITESM • App/Web Dev • Computer Graphics (OpenGL)
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigologu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rock.gule@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/rdglopz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/rdglopz"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"></a>
+</p>
+
+---
+
+## About me
+
+- 🎓 Systems Engineering student at **ITESM**
+- 🌱 Learning: **App Development, Web Implementation, OpenGL**
+- 🤝 Open to **freelance** & collaboration
+- 💬 Ask me about: **Automata, Flex & Yacc**
+- ⚡ Fun fact: I like joining **community-impact projects**
+
+> Tip: si tienes portafolio o blog, ponlo aquí. Si no, elimina esa línea.
+
+---
+
+## Tech stack
+
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+</p>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <a href="https://github.com/iiRoy">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=iiRoy&show_icons=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/iiRoy">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiRoy&langs_count=10&layout=compact&hide_border=true" />
+  </a>
+</p>
+
+<details>
+  <summary><b>Streak & trophies</b></summary>
+  <br/>
+  <p align="center">
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=iiRoy&hide_border=true" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=iiRoy&no-bg=true&margin-w=10" />
+  </p>
 </details>
 
-<details open>
-  <summary><h3>📊 Stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/iiRoy/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iiRoy&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iiRoy&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+---
 
-<details open>
-  <summary><h3>🏆 Achievements</h3></summary>
-        <p align="center">
-          <a href="https://github.com/iiRoy/">
-          <img width="100%" src="https://github-profile-trophy.vercel.app/?username=iiRoy&theme=gruvbox&no-bg=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/rodrigologu/
+- Email: rock.gule@gmail.com
