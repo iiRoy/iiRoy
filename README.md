@@ -130,6 +130,7 @@ clarity > complexity | learn fast | ship often | build for impact
 - 🏅 Hack Puebla 2024 — Honorable mention
 - 🤝 Peer Mentor @ ITESM
 - 🧭 Student Government — President (Social Responsibility Council)
+- 📸 StoryTellers @ ITESM
 
 <p align="center">
   <!-- Placeholder shown until the daily animation is built -->
