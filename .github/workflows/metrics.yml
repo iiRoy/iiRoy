@@ -32,7 +32,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_lines: yes
-          output_action: none
+          filename: metrics.svg
 
       - name: Move metrics to assets
         run: |
