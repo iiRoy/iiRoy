@@ -1,8 +1,3 @@
-<!--
-Perfil README — Rodrigo López Guerra (Roy)
-Tip: este archivo vive en el repo especial llamado exactamente igual que tu usuario: `iiRoy/iiRoy`
--->
-
 <!-- ====== HERO ====== -->
 <p align="center">
   <img src="assets/banner.svg" alt="Rodrigo López Guerra (Roy) — Full‑Stack · Simulation · Computer Graphics" />
@@ -142,14 +137,9 @@ clarity > complexity | learn fast | ship often | build for impact
   </p>
 </details>
 
-<!--
-## 🐍 Snake (opcional)
-Si habilitas el workflow de snake, descomenta esta sección:
-
 <p align="center">
   <img src="assets/github-snake.svg" alt="Snake animation" />
 </p>
--->
 
 ---
 
