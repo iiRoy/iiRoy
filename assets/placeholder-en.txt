@@ -1,0 +1,8 @@
+$ whoami
+Rodrigo López Guerra
+
+$ focus
+Interactive web apps • system dynamics simulation • real‑time graphics
+
+$ values
+clarity > complexity | learn fast | ship often | build for impact

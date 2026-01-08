@@ -1,6 +1,6 @@
 <!-- ====== HERO ====== -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Rodrigo López Guerra (Roy) — Full‑Stack · Simulation · Computer Graphics" />
+  <img src="assets/banner.svg" alt="Rodrigo López Guerra — Full‑Stack · Simulation · Computer Graphics" />
 </p>
 
 <p align="center">
@@ -15,17 +15,17 @@
 </p>
 
 <p align="center">
-  <i>In search for a challenge — building immersive & interactive experiences with social impact.</i>
+  <i>Seeking challenges — building immersive & interactive experiences with social impact.</i>
 </p>
 
 ---
 
 ```txt
 $ whoami
-Rodrigo López Guerra (Roy)
+Rodrigo López Guerra
 
 $ focus
-Interactive web apps • system dynamics simulation • realtime graphics
+Interactive web apps • system dynamics simulation • real‑time graphics
 
 $ values
 clarity > complexity | learn fast | ship often | build for impact
@@ -33,36 +33,36 @@ clarity > complexity | learn fast | ship often | build for impact
 
 ---
 
-## 🧭 Ahora mismo
+## 🧭 Currently
 
-- 🔭 Construyendo plataformas web con simulación (Django · Next.js · PostgreSQL).
-- 🎮 Explorando gráficos / tiempo real (OpenGL, shaders, Unity).
-- 🤝 Abierto a colaboración, freelance y proyectos con impacto.
+- 🔭 Building web platforms with simulation (Django · Next.js · PostgreSQL).
+- 🎮 Exploring real‑time graphics (OpenGL, shaders, Unity).
+- 🤝 Open to collaboration, freelance, and impact projects.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🧩 Sistemas</h3>
+      <h3>🧩 Systems</h3>
       <ul>
-        <li>APIs REST & arquitectura</li>
-        <li>Bases de datos (SQL)</li>
-        <li>Testing, DX y calidad</li>
+        <li>REST APIs & architecture</li>
+        <li>Databases (SQL)</li>
+        <li>Testing, DX & quality</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>📈 Simulación</h3>
+      <h3>📈 Simulation</h3>
       <ul>
         <li>System Dynamics (stock & flow)</li>
-        <li>Modelado computacional</li>
-        <li>Dashboards interactivos</li>
+        <li>Computational modeling</li>
+        <li>Interactive dashboards</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>🎨 Experiencias</h3>
+      <h3>🎨 Experiences</h3>
       <ul>
-        <li>OpenGL / gráficos</li>
+        <li>OpenGL / graphics</li>
         <li>Game dev (Unity)</li>
-        <li>UX orientada a aprendizaje</li>
+        <li>Learning‑oriented UX</li>
       </ul>
     </td>
   </tr>
@@ -70,13 +70,13 @@ clarity > complexity | learn fast | ship often | build for impact
 
 ---
 
-## ⭐ Proyectos destacados
+## ⭐ Featured Projects
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/iiRoy/PatronesHermosos-Corrected">
-        <img width="420" height="130" src="assets/pins/patroneshermosos.svg" alt="Patrones Hermosos" />
+      <a href="https://github.com/iiRoy/PatronesHermosos-Corrected" title="Part of a STEAM program at Tec de Monterrey">
+        <img width="420" height="130" src="assets/pins/beautiful-patterns.svg" alt="Beautiful Patterns (STEAM Tec de Monterrey)" />
       </a>
     </td>
     <td align="center">
@@ -87,8 +87,8 @@ clarity > complexity | learn fast | ship often | build for impact
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/iiRoy/3D-Simulation-Julia">
-        <img width="420" height="130" src="assets/pins/3d-simulation-julia.svg" alt="3D Simulation Julia" />
+      <a href="https://github.com/CharismaticTopHat/trafficSimulation">
+        <img width="420" height="130" src="assets/pins/traffic-simulation.svg" alt="Traffic Simulation" />
       </a>
     </td>
     <td align="center">
@@ -100,19 +100,19 @@ clarity > complexity | learn fast | ship often | build for impact
 </table>
 
 <details>
-  <summary><b>🧪 Hackathons + otros repos</b></summary>
+  <summary><b>🧪 Hackathons + other repos</b></summary>
   <br/>
   <ul>
-    <li><a href="https://github.com/iiRoy/GShase">GShase</a> — proyecto de Hack Puebla (PHP).</li>
+    <li><a href="https://github.com/iiRoy/GShase">GShase</a> — Hack Puebla project (PHP).</li>
     <li><a href="https://github.com/iiRoy/Reforest-Revenge-COPY">Reforest-Revenge</a> — game jam (Unity/C#).</li>
-    <li><a href="https://github.com/iiRoy/Analisis-COVID-19">Analisis-COVID-19</a> — análisis en R.</li>
-    <li><a href="https://github.com/iiRoy/Modmail-Bot-Discord">Modmail-Bot-Discord</a> — bot de modmail en Discord.js.</li>
+    <li><a href="https://github.com/iiRoy/Analisis-COVID-19">Analisis-COVID-19</a> — analysis in R.</li>
+    <li><a href="https://github.com/iiRoy/Modmail-Bot-Discord">Modmail-Bot-Discord</a> — modmail bot in Discord.js.</li>
   </ul>
 </details>
 
 ---
 
-## 🛠️ Toolbox (lo que más uso)
+## 🛠️ Toolbox (what I use most)
 
 <p align="center">
   <!-- Nota: si prefieres no depender de skillicons.dev, cámbialo por badges o íconos locales -->
@@ -123,13 +123,13 @@ clarity > complexity | learn fast | ship often | build for impact
 
 ---
 
-## 🏆 Logros y liderazgo
+## 🏆 Achievements & leadership
 
-- 🥈 Hack Puebla 2023 — 2º lugar
-- 🥈 Global Game Jam 2023 — 2º lugar (Most Creative Project)
-- 🏅 Hack Puebla 2024 — Mención honorífica
+- 🥈 Hack Puebla 2023 — 2nd place
+- 🥈 Global Game Jam 2023 — 2nd place (Most Creative Project)
+- 🏅 Hack Puebla 2024 — Honorable mention
 - 🤝 Peer Mentor @ ITESM
-- 🧭 Student Government — Presidente (Consejo de Responsabilidad Social)
+- 🧭 Student Government — President (Social Responsibility Council)
 
 ---
 
@@ -137,27 +137,12 @@ clarity > complexity | learn fast | ship often | build for impact
   <summary><b>📊 Stats</b></summary>
   <br/>
   <p align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=iiRoy&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiRoy&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=3600" alt="Top Languages" />
-  </p>
-
-  <p align="center">
-    <img height="160" src="https://streak-stats.demolab.com?user=iiRoy&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Streak" />
-  </p>
-
-  <p align="center">
-    <!-- Fallback local, actualizado diariamente por Actions -->
-    <img height="160" src="assets/metrics.svg" alt="Metrics (fallback)" />
+    <!-- Local metrics generated by Actions -->
+    <img height="180" src="assets/stats.svg" alt="Profile metrics" />
   </p>
 </details>
 
 <p align="center">
-  <img src="assets/github-snake.svg" alt="Snake animation" />
+  <!-- Placeholder shown until the daily animation is built -->
+  <img src="assets/github-snake-placeholder.svg" alt="Snake animation placeholder" />
 </p>
-
----
-
-## 📬 Contacto
-
-- LinkedIn: https://www.linkedin.com/in/rodrigologu/
-- Email: rock.gule@gmail.com
