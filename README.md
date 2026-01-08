@@ -144,5 +144,5 @@ clarity > complexity | learn fast | ship often | build for impact
 
 <p align="center">
   <!-- Placeholder shown until the daily animation is built -->
-  <img src="assets/github-snake-placeholder.svg" alt="Snake animation placeholder" />
+  <img src="assets/github-snake.svg" alt="Snake animation placeholder" />
 </p>
