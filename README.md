@@ -88,10 +88,10 @@ clarity > complexity | learn fast | ship often | build for impact
   <summary><b>🧪 Hackathons + otros repos</b></summary>
   <br/>
   <ul>
-    <li><a href="https://github.com/iiRoy/GShase">GShase</a> — proyecto de Hack Puebla (PHP).</li>
-    <li><a href="https://github.com/iiRoy/Reforest-Revenge-COPY">Reforest-Revenge</a> — game jam (Unity/C#).</li>
-    <li><a href="https://github.com/iiRoy/Analisis-COVID-19">Analisis-COVID-19</a> — análisis en R.</li>
-    <li><a href="https://github.com/iiRoy/Modmail-Bot-Discord">Modmail-Bot-Discord</a> — bot de modmail en Discord.js.</li>
+    <li><a href="https://github.com/iiRoy/GShase">GShase</a> — Proyecto de Hack Puebla (PHP).</li>
+    <li><a href="https://github.com/iiRoy/Reforest-Revenge-COPY">Reforest-Revenge</a> — Global GameJam 2023 (Unity/C#).</li>
+    <li><a href="https://github.com/iiRoy/Analisis-COVID-19">Analisis-COVID-19</a> — Análisis en R.</li>
+    <li><a href="https://github.com/iiRoy/Modmail-Bot-Discord">Modmail-Bot-Discord</a> — Bot de Modmail en Discord.js.</li>
   </ul>
 </details>
 
