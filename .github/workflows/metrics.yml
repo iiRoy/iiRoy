@@ -32,16 +32,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_lines: yes
-          filename: metrics.svg
-
-      - name: Move metrics to assets
-        run: |
-          mkdir -p assets
-          mv metrics.svg assets/stats.svg
-
-      - name: Commit and push
-        uses: EndBug/add-and-commit@v9
-        with:
-          default_author: github_actions
-          message: "chore(stats): update profile metrics"
-          add: "assets/stats.svg"
+          filename: assets/stats.svg
+          output_action: commit
+          committer_message: "chore(stats): update profile metrics"
