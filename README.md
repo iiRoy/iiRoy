@@ -1,14 +1,11 @@
-<!-- Banner -->
-<p align="center">
-  <a href="https://github.com/iiRoy">
-    <img src="./banner.png" alt="Banner" />
-  </a>
-</p>
+<!--
+Perfil README — Rodrigo López Guerra (Roy)
+Tip: este archivo vive en el repo especial llamado exactamente igual que tu usuario: `iiRoy/iiRoy`
+-->
 
-<h1 align="center">Rodrigo López (Roy) 👋</h1>
-
+<!-- ====== HERO ====== -->
 <p align="center">
-  Systems Engineering @ ITESM • App/Web Dev • Computer Graphics (OpenGL)
+  <img src="assets/banner.svg" alt="Rodrigo López Guerra (Roy) — Full‑Stack · Simulation · Computer Graphics" />
 </p>
 
 <p align="center">
@@ -18,57 +15,145 @@
   <a href="https://twitter.com/rdglopz"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"></a>
 </p>
 
----
+<p align="center">
+  <b>CS @ ITESM (Jun 2026)</b> · Puebla, MX · <b>Full‑Stack</b> · <b>Simulation</b> · <b>Computer Graphics</b>
+</p>
 
-## About me
-
-- 🎓 Systems Engineering student at **ITESM**
-- 🌱 Learning: **App Development, Web Implementation, OpenGL**
-- 🤝 Open to **freelance** & collaboration
-- 💬 Ask me about: **Automata, Flex & Yacc**
-- ⚡ Fun fact: I like joining **community-impact projects**
-
-> Tip: si tienes portafolio o blog, ponlo aquí. Si no, elimina esa línea.
-
----
-
-## Tech stack
-
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+<p align="center">
+  <i>In search for a challenge — building immersive & interactive experiences with social impact.</i>
 </p>
 
 ---
 
-## GitHub stats
+```txt
+$ whoami
+Rodrigo López Guerra (Roy)
+
+$ focus
+Interactive web apps • system dynamics simulation • realtime graphics
+
+$ values
+clarity > complexity | learn fast | ship often | build for impact
+```
+
+---
+
+## 🧭 Ahora mismo
+
+- 🔭 Construyendo plataformas web con simulación (Django · Next.js · PostgreSQL).
+- 🎮 Explorando gráficos / tiempo real (OpenGL, shaders, Unity).
+- 🤝 Abierto a colaboración, freelance y proyectos con impacto.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧩 Sistemas</h3>
+      <ul>
+        <li>APIs REST & arquitectura</li>
+        <li>Bases de datos (SQL)</li>
+        <li>Testing, DX y calidad</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📈 Simulación</h3>
+      <ul>
+        <li>System Dynamics (stock & flow)</li>
+        <li>Modelado computacional</li>
+        <li>Dashboards interactivos</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 Experiencias</h3>
+      <ul>
+        <li>OpenGL / gráficos</li>
+        <li>Game dev (Unity)</li>
+        <li>UX orientada a aprendizaje</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⭐ Proyectos destacados
 
 <p align="center">
-  <a href="https://github.com/iiRoy">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=iiRoy&show_icons=true&hide_border=true" />
+  <a href="https://github.com/iiRoy/PatronesHermosos-Corrected">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=iiRoy&repo=PatronesHermosos-Corrected&theme=dark&hide_border=true" />
   </a>
-  <a href="https://github.com/iiRoy">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiRoy&langs_count=10&layout=compact&hide_border=true" />
+  <a href="https://github.com/iiRoy/CleanAir-Tracker">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=iiRoy&repo=CleanAir-Tracker&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iiRoy/3D-Simulation-Julia">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=iiRoy&repo=3D-Simulation-Julia&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/iiRoy/Volca-Popocatepetl-Risk">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=iiRoy&repo=Volca-Popocatepetl-Risk&theme=dark&hide_border=true" />
   </a>
 </p>
 
 <details>
-  <summary><b>Streak & trophies</b></summary>
+  <summary><b>🧪 Hackathons + otros repos</b></summary>
   <br/>
-  <p align="center">
-    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=iiRoy&hide_border=true" />
-  </p>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=iiRoy&no-bg=true&margin-w=10" />
-  </p>
+  <ul>
+    <li><a href="https://github.com/iiRoy/GShase">GShase</a> — proyecto de Hack Puebla (PHP).</li>
+    <li><a href="https://github.com/iiRoy/Reforest-Revenge-COPY">Reforest-Revenge</a> — game jam (Unity/C#).</li>
+    <li><a href="https://github.com/iiRoy/Analisis-COVID-19">Analisis-COVID-19</a> — análisis en R.</li>
+    <li><a href="https://github.com/iiRoy/Modmail-Bot-Discord">Modmail-Bot-Discord</a> — bot de modmail en Discord.js.</li>
+  </ul>
 </details>
 
 ---
 
-## Contact
+## 🛠️ Toolbox (lo que más uso)
+
+<p align="center">
+  <!-- Nota: si prefieres no depender de skillicons.dev, cámbialo por badges o íconos locales -->
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,java" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,django,postgres,mysql,prisma,git,linux,unity,matlab" />
+</p>
+
+---
+
+## 🏆 Logros y liderazgo
+
+- 🥈 Hack Puebla 2023 — 2º lugar
+- 🥈 Global Game Jam 2023 — 2º lugar (Most Creative Project)
+- 🏅 Hack Puebla 2024 — Mención honorífica
+- 🤝 Peer Mentor @ ITESM
+- 🧭 Student Government — Presidente (Consejo de Responsabilidad Social)
+
+---
+
+<details>
+  <summary><b>📊 Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=iiRoy&show_icons=true&theme=dark&hide_border=true" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiRoy&layout=compact&theme=dark&hide_border=true" />
+  </p>
+
+  <p align="center">
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=iiRoy&theme=dark&hide_border=true" />
+  </p>
+</details>
+
+<!--
+## 🐍 Snake (opcional)
+Si habilitas el workflow de snake, descomenta esta sección:
+
+<p align="center">
+  <img src="assets/github-snake.svg" alt="Snake animation" />
+</p>
+-->
+
+---
+
+## 📬 Contacto
 
 - LinkedIn: https://www.linkedin.com/in/rodrigologu/
 - Email: rock.gule@gmail.com

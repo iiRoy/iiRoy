@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Rodrigo López Guerra — Roy">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#0f2a4a"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.35 0" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+
+  <!-- Accent blobs -->
+  <circle cx="230" cy="110" r="130" fill="url(#accent)" opacity="0.16" filter="url(#softGlow)"/>
+  <circle cx="1080" cy="250" r="170" fill="url(#accent)" opacity="0.12" filter="url(#softGlow)"/>
+
+  <!-- Wireframe-ish curves -->
+  <path d="M0 228 C220 170, 420 292, 640 228 S1060 182, 1280 242" fill="none" stroke="#38bdf8" stroke-opacity="0.24" stroke-width="2"/>
+  <path d="M0 252 C240 206, 420 310, 640 252 S1040 222, 1280 266" fill="none" stroke="#22c55e" stroke-opacity="0.18" stroke-width="2"/>
+
+  <!-- Text -->
+  <g font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#e5e7eb" filter="url(#shadow)">
+    <text x="80" y="140" font-size="54" font-weight="800" letter-spacing="0.2">Rodrigo López Guerra</text>
+    <text x="80" y="184" font-size="24" font-weight="500" opacity="0.92">Roy • Full‑Stack • Simulation • Computer Graphics</text>
+
+    <text x="80" y="232" font-size="18" font-weight="400" opacity="0.88">Puebla, MX · ITESM · Graduating 2026</text>
+
+    <!-- Accent underline -->
+    <rect x="80" y="252" width="410" height="8" rx="4" fill="url(#accent)" opacity="0.9"/>
+  </g>
+
+  <!-- Tiny "pixels" (graphics vibe) -->
+  <g opacity="0.9">
+    <rect x="1042" y="78" width="10" height="10" fill="#38bdf8"/>
+    <rect x="1062" y="98" width="10" height="10" fill="#22c55e"/>
+    <rect x="1082" y="78" width="10" height="10" fill="#a78bfa"/>
+    <rect x="1102" y="98" width="10" height="10" fill="#f59e0b"/>
+  </g>
+</svg>
