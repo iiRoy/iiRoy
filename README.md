@@ -74,13 +74,13 @@ clarity > complexity | learn fast | ship often | build for impact
 
 <p align="center">
   <a href="https://github.com/iiRoy/PatronesHermosos-Corrected">
-    <img alt="PatronesHermosos-Corrected (pinned)" src="https://github-readme-stats.vercel.app/api/pin/?username=iiRoy&repo=PatronesHermosos-Corrected&theme=github_dark&border_radius=10&cache_seconds=7200" />
+    <img alt="PatronesHermosos-Corrected (pinned)" src="assets/pins/PatronesHermosos-Corrected.svg" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/iiRoy/CleanAir-Tracker">
-    <img alt="CleanAir-Tracker (pinned)" src="https://github-readme-stats.vercel.app/api/pin/?username=iiRoy&repo=CleanAir-Tracker&theme=github_dark&border_radius=10&cache_seconds=7200" />
+    <img alt="CleanAir-Tracker (pinned)" src="assets/pins/CleanAir-Tracker.svg" />
   </a>
 </p>
 
@@ -122,12 +122,7 @@ clarity > complexity | learn fast | ship often | build for impact
   <summary><b>📊 Stats</b></summary>
   <br/>
   <p align="center">
-    <img height="160" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=iiRoy&show_icons=true&theme=dark&hide_border=true&cache_seconds=7200" />
-    <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiRoy&layout=compact&theme=dark&hide_border=true&cache_seconds=7200" />
-  </p>
-
-  <p align="center">
-    <img height="160" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iiRoy&theme=dark&hide_border=true" />
+    <img alt="GitHub metrics" src="assets/metrics.svg" />
   </p>
 </details>
 
