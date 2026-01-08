@@ -74,13 +74,20 @@ clarity > complexity | learn fast | ship often | build for impact
 
 <p align="center">
   <a href="https://github.com/iiRoy/PatronesHermosos-Corrected">
-    <img alt="PatronesHermosos-Corrected (pinned)" src="assets/pins/PatronesHermosos-Corrected.svg" />
+    <img width="420" height="130" src="assets/pins/patroneshermosos.svg" alt="Patrones Hermosos" />
   </a>
+  <a href="https://github.com/iiRoy/CleanAir-Tracker">
+    <img width="420" height="130" src="assets/pins/CleanAir-Tracker.svg" alt="CleanAir Tracker" />
+  </a>
+  
 </p>
 
 <p align="center">
-  <a href="https://github.com/iiRoy/CleanAir-Tracker">
-    <img alt="CleanAir-Tracker (pinned)" src="assets/pins/CleanAir-Tracker.svg" />
+  <a href="https://github.com/iiRoy/3D-Simulation-Julia">
+    <img width="420" height="130" src="assets/pins/3d-simulation-julia.svg" alt="3D Simulation Julia" />
+  </a>
+  <a href="https://github.com/iiRoy/Volca-Popocatepetl-Risk">
+    <img width="420" height="130" src="assets/pins/volcano-popocatepetl-risk.svg" alt="Volcano Popocatépetl Risk" />
   </a>
 </p>
 
@@ -88,10 +95,10 @@ clarity > complexity | learn fast | ship often | build for impact
   <summary><b>🧪 Hackathons + otros repos</b></summary>
   <br/>
   <ul>
-    <li><a href="https://github.com/iiRoy/GShase">GShase</a> — Proyecto de Hack Puebla (PHP).</li>
-    <li><a href="https://github.com/iiRoy/Reforest-Revenge-COPY">Reforest-Revenge</a> — Global GameJam 2023 (Unity/C#).</li>
-    <li><a href="https://github.com/iiRoy/Analisis-COVID-19">Analisis-COVID-19</a> — Análisis en R.</li>
-    <li><a href="https://github.com/iiRoy/Modmail-Bot-Discord">Modmail-Bot-Discord</a> — Bot de Modmail en Discord.js.</li>
+    <li><a href="https://github.com/iiRoy/GShase">GShase</a> — proyecto de Hack Puebla (PHP).</li>
+    <li><a href="https://github.com/iiRoy/Reforest-Revenge-COPY">Reforest-Revenge</a> — game jam (Unity/C#).</li>
+    <li><a href="https://github.com/iiRoy/Analisis-COVID-19">Analisis-COVID-19</a> — análisis en R.</li>
+    <li><a href="https://github.com/iiRoy/Modmail-Bot-Discord">Modmail-Bot-Discord</a> — bot de modmail en Discord.js.</li>
   </ul>
 </details>
 
@@ -122,12 +129,21 @@ clarity > complexity | learn fast | ship often | build for impact
   <summary><b>📊 Stats</b></summary>
   <br/>
   <p align="center">
-    <img alt="GitHub metrics" src="assets/metrics.svg" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=iiRoy&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiRoy&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  </p>
+
+  <p align="center">
+    <img height="160" src="https://streak-stats.demolab.com?user=iiRoy&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Streak" />
   </p>
 </details>
 
 <p align="center">
-  <img src="assets/github-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiRoy/iiRoy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiRoy/iiRoy/output/github-snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/iiRoy/iiRoy/output/github-snake.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
