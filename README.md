@@ -76,7 +76,7 @@ clarity > complexity | learn fast | ship often | build for impact
   <tr>
     <td align="center">
       <a href="https://github.com/iiRoy/PatronesHermosos-Corrected" title="Part of a STEAM program at Tec de Monterrey">
-        <img width="420" height="130" src="assets/pins/beautiful-patterns.svg" alt="Beautiful Patterns (STEAM Tec de Monterrey)" />
+        <img width="420" height="130" src="assets/pins/patrones-hermosos.svg" alt="Patrones Hermosos (STEAM Tec de Monterrey)" />
       </a>
     </td>
     <td align="center">
