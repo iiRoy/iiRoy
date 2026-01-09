@@ -104,9 +104,9 @@ clarity > complexity | learn fast | ship often | build for impact
   <br/>
   <ul>
     <li><a href="https://github.com/iiRoy/GShase">GShase</a> — Hack Puebla project (PHP).</li>
-    <li><a href="https://github.com/iiRoy/Reforest-Revenge-COPY">Reforest-Revenge</a> — game jam (Unity/C#).</li>
-    <li><a href="https://github.com/iiRoy/Analisis-COVID-19">Analisis-COVID-19</a> — analysis in R.</li>
-    <li><a href="https://github.com/iiRoy/Modmail-Bot-Discord">Modmail-Bot-Discord</a> — modmail bot in Discord.js.</li>
+    <li><a href="https://github.com/iiRoy/Reforest-Revenge-COPY">Reforest-Revenge</a> — Global GameJam (Unity/C#).</li>
+    <li><a href="https://github.com/iiRoy/Analisis-COVID-19">Analisis-COVID-19</a> — Analysis in R.</li>
+    <li><a href="https://github.com/iiRoy/Modmail-Bot-Discord">Modmail-Bot-Discord</a> — Modmail Bot in Discord.js.</li>
   </ul>
 </details>
 
