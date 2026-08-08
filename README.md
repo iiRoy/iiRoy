@@ -4,9 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rodrigologu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K"></a>
-  <a href="mailto:rock.gule@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white"></a>
-  <a href="https://github.com/iiRoy?tab=repositories"><img alt="Github Repositories" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rodrigologu/"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&perline=1"></a>
+  <a href="mailto:rock.gule@gmail.com"><img alt="Email" src="https://skillicons.dev/icons?i=gmail&perline=1"></a>
+  <a href="https://github.com/iiRoy?tab=repositories"><img alt="Github Repositories" src="https://skillicons.dev/icons?i=github&perline=1"></a>
+</p>
 
 <div align="center">
   
@@ -28,19 +29,257 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iiRoy?tab=repositories"><strong>Explore all repositories →</strong></a>
+  <a href="https://github.com/iiRoy?tab=repositories"><img alt="Explore all repositories" src="https://img.shields.io/badge/Explore%20all%20repositories-212121?style=for-the-badge&logo=github"></a>
 </p>
 <h2 align="center">Tools & technologies</h2>
-
+<!-- Languages -->
 <p align="center">
-  <sub>Languages</sub><br><br>
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,ts,js,go,julia,swift,kotlin,r&perline=12" alt="C++, C, C#, Python, TypeScript, JavaScript, Go, Julia, Swift, Kotlin, and R" height="48">
+  <sub>Languages</sub><br>
+  <p align="center">
+    <a href="https://isocpp.org/get-started">
+      <img alt="C++" title="C++ Documentation" src="https://skillicons.dev/icons?i=cpp&perline=1">
+    </a>
+    <a href="https://www.open-std.org/jtc1/sc22/wg14/">
+      <img alt="C" title="C Documentation" src="https://skillicons.dev/icons?i=c&perline=1">
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+      <img alt="C#" title="C# Documentation" src="https://skillicons.dev/icons?i=cs&perline=1">
+    </a>
+    <a href="https://docs.python.org/3/">
+      <img alt="Python" title="Python Documentation"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+        width="48" height="48">
+    </a>
+    <a href="https://www.typescriptlang.org/docs/">
+      <img alt="TypeScript" title="TypeScript Documentation" src="https://skillicons.dev/icons?i=ts&perline=1">
+    </a>
+    <a href="https://tc39.es/ecma262/">
+      <img alt="JavaScript" title="JavaScript Specification" src="https://skillicons.dev/icons?i=js&perline=1">
+    </a>
+    <a href="https://go.dev/doc/">
+      <img alt="Go" title="Go Documentation" src="https://skillicons.dev/icons?i=go&perline=1">
+    </a>
+    <a href="https://docs.julialang.org/">
+      <img alt="Julia" title="Julia Documentation" src="https://skillicons.dev/icons?i=julia&perline=1">
+    </a>
+    <a href="https://www.swift.org/documentation/">
+      <img alt="Swift" title="Swift Documentation" src="https://skillicons.dev/icons?i=swift&perline=1">
+    </a>
+    <a href="https://kotlinlang.org/docs/home.html">
+      <img alt="Kotlin" title="Kotlin Documentation"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+        width="48" height="48">
+    </a>
+    <a href="https://cran.r-project.org/manuals.html">
+      <img alt="R" title="R Documentation"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
+        width="48" height="48">
+    </a>
+  </p>
 </p>
 
-<p align="center">
-  <sub>Frameworks, data & tools</sub><br><br>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,django,postgres,mysql,prisma,git,linux,unity,matlab&perline=12" alt="Next.js, React, Node.js, Express, Django, PostgreSQL, MySQL, Prisma, Git, Linux, Unity, and MATLAB" height="48">
-</p>
+<div style="display: flex; padding-left: 50px; padding-right: 50px;">
+  <!-- Backend & APIs -->
+  <div style="flex: 1; padding-right: 10px;">
+    <p align="center">
+      <sub><strong>Backend & APIs</strong></sub><br>
+      <p align="center">
+        <a href="https://nodejs.org/docs/latest/api/">
+          <img alt="Node.js" title="Node.js Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+            width="48" height="48">
+        </a>
+        <a href="https://docs.djangoproject.com/en/stable/">
+          <img alt="Django" title="Django Documentation" src="https://skillicons.dev/icons?i=django&perline=1" height="48">
+        </a>
+        <a href="https://docs.nestjs.com/">
+          <img
+            alt="NestJS"
+            title="NestJS Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+            width="48"
+            height="48"
+          >
+        </a>
+      </p>
+    </p>
+  </div>
+  <!-- Frontend -->
+  <div style="flex: 1; padding-right: 10px;">
+    <p align="center">
+      <sub><strong>Frontend</strong></sub><br>
+      <p align="center">
+        <a href="https://nextjs.org/docs">
+          <img alt="Next.js" title="Next.js Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+            width="48" height="48">
+        </a>
+        <a href="https://react.dev/">
+          <img alt="React" title="React Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+            width="48" height="48">
+        </a>
+        <a href="https://tailwindcss.com/docs">
+          <img alt="Tailwind CSS" title="Tailwind CSS Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            width="48" height="48">
+        </a>
+      </p>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; padding-left: 50px; padding-right: 50px;">
+  <!-- AI, Machine Learning & Data Science -->
+  <div style="flex: 1; padding-right: 10px;">
+    <p align="center">
+      <sub><strong>AI · ML · Data Science</strong></sub><br>
+      <p align="center">
+        <a href="https://numpy.org/doc/stable/">
+          <img
+            alt="NumPy"
+            title="NumPy Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+            width="48"
+            height="48"
+          >
+        </a>
+        <a href="https://scikit-learn.org/stable/user_guide.html">
+          <img alt="scikit-learn" title="scikit-learn Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+            width="48" height="48">
+        </a>
+        <a href="https://www.mathworks.com/help/matlab/">
+          <img alt="MATLAB" title="MATLAB Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
+            width="48" height="48">
+        </a>
+        <a href="https://docs.jupyter.org/en/latest/">
+          <img
+            alt="Jupyter"
+            title="Jupyter Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+            width="48"
+            height="48"
+          >
+        </a>
+        <a href="https://pandas.pydata.org/docs/">
+          <img
+            src="https://pandas.pydata.org//static/img/favicon_white.ico"
+            alt="Pandas"
+            title="Pandas Documentation"
+            width="48"
+            height="48"
+          >
+        </a>
+        <a href="https://plotly.com/python/">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
+            alt="Plotly"
+            title="Plotly Documentation"
+            width="48"
+            height="48"
+          >
+        </a>
+      </p>
+    </p>
+  </div>
+
+  <!-- Databases & Data Layer -->
+  <div style="flex: 1; padding-right: 10px;">
+    <p align="center">
+      <sub><strong>Databases</strong></sub><br>
+      <p align="center">
+        <a href="https://www.postgresql.org/docs/">
+          <img alt="PostgreSQL" title="PostgreSQL Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+            width="48" height="48">
+        </a>
+        <a href="https://dev.mysql.com/doc/">
+          <img alt="MySQL" title="MySQL Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+            width="48" height="48">
+        </a>
+        <a href="https://www.prisma.io/docs">
+          <img alt="Prisma" title="Prisma Documentation" src="https://skillicons.dev/icons?i=prisma&perline=1" height="48">
+        </a>
+        <a href="https://supabase.com/docs">
+          <img alt="Supabase" title="Supabase Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
+            width="48" height="48">
+        </a>
+      </p>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; padding-left: 50px; padding-right: 50px;">
+  <!-- Graphics & Simulation -->
+  <div style="flex: 1; padding-right: 10px;">
+    <p align="center">
+      <sub><strong>Graphics & Simulation</strong></sub><br>
+      <p align="center">
+        <a href="https://docs.unity3d.com/Manual/index.html">
+          <img alt="Unity" title="Unity Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"
+            width="48" height="48">
+        </a>
+        <a href="https://www.pygame.org/docs/">
+          <img src="https://www.computingatschool.org.uk/media/ahcbwzxx/pygameicon.png?width=600&height=600&v=1d7af2641042e10"
+              alt="Pygame" title="Pygame Documentation" width="48" height="48">
+        </a>
+        <a href="https://pyopengl.sourceforge.net/documentation/">
+          <img src="https://cdn.freebiesupply.com/logos/large/2x/opengl-1-logo-png-transparent.png"
+              alt="PyOpenGL" title="PyOpenGL Documentation" width="48" height="48">
+        </a>
+      </p>
+    </p>
+  </div>
+  <!-- DevOps & Tools -->
+  <div style="flex: 1; padding-right: 10px;">  
+    <p align="center">
+      <sub><strong>DevOps & Tools</strong></sub><br>
+      <p align="center">
+        <a href="https://git-scm.com/doc">
+          <img alt="Git" title="Git Documentation" src="https://skillicons.dev/icons?i=git&perline=1" height="48">
+        </a>
+        <a href="https://docs.kernel.org/">
+          <img alt="Linux" title="Linux Kernel Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+            width="48" height="48">
+        </a>
+        <a href="https://docs.aws.amazon.com/">
+          <img alt="AWS" title="AWS Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+            width="48" height="48">
+        </a>
+        <a href="https://docs.cloud.google.com/docs">
+          <img alt="Google Cloud Platform" title="Google Cloud Documentation"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
+            width="48" height="48">
+        </a>
+        <a href="https://docs.docker.com/">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+            alt="Docker"
+            title="Docker Documentation"
+            width="48"
+            height="48"
+          >
+        </a>
+        <a href="https://docs.github.com/en/actions">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
+            alt="GitHub Actions"
+            title="GitHub Actions Documentation"
+            width="48"
+            height="48"
+          >
+        </a>
+      </p>
+    </p>
+  </div>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-0E7490?style=flat-square" alt="Full-Stack">
