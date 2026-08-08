@@ -8,6 +8,11 @@
   <a href="mailto:rock.gule@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white"></a>
   <a href="https://github.com/iiRoy?tab=repositories"><img alt="Github Repositories" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=29C5AF&center=true&width=600&height=30&lines=Passionate+about+complex+systems.+%F0%9F%A4%96;Exploring+the+world+through+simulations.+%F0%9F%8E%AE;Always+building%2C+learning+along+the+way.+%F0%9F%92%A1;Builder+of+high-impact+ideas.+%F0%9F%AA%90;Always+learning+one+more+technology.+%E2%9C%A8)](https://git.io/typing-svg)
+</div>
+
 <p align="center">
   <strong>Computer Science @ Tecnológico de Monterrey</strong><br>
   <sub>GPA 94.37/100 · Mexico</sub>
