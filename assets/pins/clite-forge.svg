@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-labelledby="title desc">
+  <title id="title">CLite Forge</title>
+  <desc id="desc">C-like compiler with lexical analysis, AST visitors, control-flow support, and LLVM IR generation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="12" y1="10" x2="548" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#091925"/>
+      <stop offset="1" stop-color="#102F38"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="452" y1="62" x2="530" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#62A8F4"/>
+      <stop offset="1" stop-color="#42D8C2"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#B9E9E3" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="card"><rect x="1" y="1" width="558" height="208" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect x="1" y="1" width="558" height="208" fill="url(#bg)"/>
+    <rect x="1" y="1" width="558" height="208" fill="url(#grid)"/>
+    <circle cx="518" cy="48" r="96" fill="#62A8F4" fill-opacity="0.045"/>
+    <circle cx="506" cy="176" r="74" fill="#42D8C2" fill-opacity="0.035"/>
+
+    <g font-family="Inter,Segoe UI,Arial,sans-serif">
+      <rect x="28" y="25" width="30" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="28" y="48" fill="#8EB6BE" font-size="10" font-weight="700" letter-spacing="1.55">COMPILER · SOURCE CODE</text>
+      <text x="500" y="36" fill="#6E929D" font-size="10" font-weight="700" letter-spacing="1.1">04 / 04</text>
+
+      <text x="28" y="87" fill="#F3FAFC" font-size="27" font-weight="800" letter-spacing="-0.35">CLite Forge</text>
+      <text x="28" y="116" fill="#B9CDD5" font-size="13.2" font-weight="500">C-like compiler with lexer, parser, and AST visitors,</text>
+      <text x="28" y="136" fill="#B9CDD5" font-size="13.2" font-weight="500">control-flow support and LLVM IR generation.</text>
+
+      <path d="M28 154H416" stroke="#47707A" stroke-opacity="0.48"/>
+      <text x="28" y="178" fill="#91B9BE" font-size="10.5" font-weight="700" letter-spacing="0.7">PYTHON · PLY · AST · VISITOR · LLVM IR</text>
+    </g>
+
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="477" y="69" width="38" height="19" rx="6" stroke="#62A8F4" stroke-width="2"/>
+      <path d="M487 75L482 79L487 83M505 75L510 79L505 83" stroke="#B7D7F8" stroke-width="1.6"/>
+      <path d="M496 88V108M496 108H470V127M496 108H522V127" stroke="url(#accent)" stroke-width="2.5"/>
+      <rect x="453" y="127" width="34" height="21" rx="5" stroke="#42D8C2" stroke-width="2"/>
+      <rect x="505" y="127" width="34" height="21" rx="5" stroke="#42D8C2" stroke-width="2"/>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="558" height="208" rx="20" fill="none" stroke="#2C505C" stroke-width="2"/>
+</svg>

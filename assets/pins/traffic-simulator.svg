@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-labelledby="title desc">
+  <title id="title">Traffic Simulator</title>
+  <desc id="desc">Agent-based intersection simulation with coordinated signals, real-time vehicle behavior, and velocity analytics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="12" y1="10" x2="548" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#091925"/>
+      <stop offset="1" stop-color="#102F38"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="28" y1="26" x2="530" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#62A8F4"/>
+      <stop offset="1" stop-color="#42D8C2"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#B9E9E3" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="card"><rect x="1" y="1" width="558" height="208" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect x="1" y="1" width="558" height="208" fill="url(#bg)"/>
+    <rect x="1" y="1" width="558" height="208" fill="url(#grid)"/>
+    <circle cx="518" cy="48" r="96" fill="#62A8F4" fill-opacity="0.035"/>
+    <circle cx="506" cy="176" r="74" fill="#42D8C2" fill-opacity="0.03"/>
+
+    <g font-family="Inter,Segoe UI,Arial,sans-serif">
+      <rect x="28" y="25" width="30" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="28" y="48" fill="#8EB6BE" font-size="10" font-weight="700" letter-spacing="1.55">SIMULATION · SOURCE CODE</text>
+      <text x="500" y="36" fill="#6E929D" font-size="10" font-weight="700" letter-spacing="1.1">03 / 04</text>
+
+      <text x="28" y="87" fill="#F3FAFC" font-size="27" font-weight="800" letter-spacing="-0.35">Traffic Simulator</text>
+      <text x="28" y="116" fill="#B9CDD5" font-size="13.2" font-weight="500">Agent-based intersection with coordinated signals,</text>
+      <text x="28" y="136" fill="#B9CDD5" font-size="13.2" font-weight="500">real-time vehicle behavior, and velocity analytics.</text>
+
+      <path d="M28 154H416" stroke="#47707A" stroke-opacity="0.48"/>
+      <text x="28" y="178" fill="#91B9BE" font-size="10.5" font-weight="700" letter-spacing="0.7">JULIA · AGENTS.JL · GENIE · REACT · PLOTLY</text>
+    </g>
+
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <rect x="445" y="97" width="98" height="30" rx="7" fill="#4D696F"/>
+      <rect x="482" y="58" width="30" height="104" rx="7" fill="#4D696F"/>
+      <rect x="482" y="97" width="30" height="30" fill="#4D696F"/>
+
+      <path d="M447 112H464M526 112H541M497 60V78M497 143V160" fill="none" stroke="#D8E7E5" stroke-opacity="0.72" stroke-width="1.7" stroke-dasharray="5 5"/>
+
+      <g>
+        <rect x="450" y="104" width="26" height="11" rx="3" fill="#62A8F4"/>
+        <rect x="456" y="101" width="13" height="6" rx="2" fill="#ADD6FA"/>
+        <circle cx="455" cy="116" r="2.1" fill="#091925"/>
+        <circle cx="471" cy="116" r="2.1" fill="#091925"/>
+      </g>
+
+      <g>
+        <rect x="491" y="132" width="12" height="25" rx="3" fill="#42D8C2"/>
+        <rect x="493" y="137" width="8" height="11" rx="2" fill="#AAEEE5"/>
+        <circle cx="489.5" cy="137" r="2" fill="#091925"/>
+        <circle cx="504.5" cy="137" r="2" fill="#091925"/>
+        <circle cx="489.5" cy="152" r="2" fill="#091925"/>
+        <circle cx="504.5" cy="152" r="2" fill="#091925"/>
+      </g>
+
+      <path d="M516 91V101M475 130H482" fill="none" stroke="#6D9399" stroke-width="1.5"/>
+      <circle cx="516" cy="87" r="4.5" fill="#EF7777" stroke="#152E38" stroke-width="2"/>
+      <circle cx="471" cy="130" r="4.5" fill="#83DE73" stroke="#152E38" stroke-width="2"/>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="558" height="208" rx="20" fill="none" stroke="#2C505C" stroke-width="2"/>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Rodrigo López Guerra — Software Engineer</title>
+  <desc id="desc">Minimal profile banner highlighting full-stack development, simulation, and computer graphics.</desc>
+  <defs>
+    <linearGradient id="background" x1="44" y1="24" x2="1236" y2="282" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071824"/>
+      <stop offset="0.58" stop-color="#0A2637"/>
+      <stop offset="1" stop-color="#0A3941"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="0" x2="170" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#42D8C2"/>
+      <stop offset="1" stop-color="#83DE73"/>
+    </linearGradient>
+    <linearGradient id="network" x1="866" y1="74" x2="1236" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#42D8C2"/>
+      <stop offset="0.52" stop-color="#62A8F4"/>
+      <stop offset="1" stop-color="#83DE73"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#7CD8E4" stroke-opacity="0.065"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect x="8" y="8" width="1264" height="284" rx="30"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect x="8" y="8" width="1264" height="284" fill="url(#background)"/>
+    <rect x="8" y="8" width="1264" height="284" fill="url(#grid)"/>
+    <circle cx="1160" cy="38" r="190" fill="#62A8F4" fill-opacity="0.045"/>
+    <circle cx="1040" cy="290" r="190" fill="#42D8C2" fill-opacity="0.045"/>
+    <path d="M8 242C236 203 427 290 660 246C856 209 1043 108 1272 139V292H8V242Z" fill="#42D8C2" fill-opacity="0.035"/>
+
+    <g font-family="Inter,Segoe UI,Arial,sans-serif">
+      <circle cx="77" cy="63" r="5" fill="#83DE73"/>
+      <text x="92" y="68" fill="#A9DAD6" font-size="14" font-weight="700" letter-spacing="1.8">SOFTWARE ENGINEER</text>
+
+      <text x="72" y="145" fill="#F4FAFC" font-size="55" font-weight="800" letter-spacing="-0.8">Rodrigo López Guerra</text>
+      <rect x="72" y="164" width="88" height="5" rx="2.5" fill="url(#accent)"/>
+      <text x="72" y="211" fill="#B7CBD5" font-size="21" font-weight="500">Full-Stack · Simulation · Computer Graphics</text>
+    </g>
+
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M858 221C925 202 958 104 1024 98C1104 91 1145 204 1222 177C1245 169 1260 154 1276 135" stroke="url(#network)" stroke-width="2.5" stroke-opacity="0.72"/>
+      <path d="M891 66C964 94 990 225 1083 229C1155 232 1194 139 1274 158" stroke="#76B8D2" stroke-width="2" stroke-opacity="0.32"/>
+      <path d="M931 220L1024 98L1083 229L1160 153L1222 177" stroke="#85B9C3" stroke-width="1.5" stroke-opacity="0.34"/>
+
+      <g fill="#081C29" stroke-width="3">
+        <circle cx="931" cy="220" r="9" stroke="#42D8C2"/>
+        <circle cx="1024" cy="98" r="10" stroke="#62A8F4"/>
+        <circle cx="1083" cy="229" r="9" stroke="#83DE73"/>
+        <circle cx="1160" cy="153" r="11" stroke="#42D8C2"/>
+        <circle cx="1222" cy="177" r="9" stroke="#62A8F4"/>
+      </g>
+      <circle cx="1116" cy="77" r="4" fill="#83DE73" stroke="none"/>
+      <circle cx="1246" cy="87" r="4" fill="#42D8C2" stroke="none"/>
+    </g>
+  </g>
+
+  <rect x="8.75" y="8.75" width="1262.5" height="282.5" rx="29.25" fill="none" stroke="#326071" stroke-width="1.5"/>
+</svg>
