@@ -10,9 +10,8 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=29C5AF&center=true&width=600&height=30&lines=Passionate+about+complex+systems.+%F0%9F%A4%96;Exploring+the+world+through+simulations.+%F0%9F%8E%AE;Always+building%2C+learning+along+the+way.+%F0%9F%92%A1;Builder+of+high-impact+ideas.+%F0%9F%AA%90;Always+learning+one+more+technology.+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=29C5AF&center=true&vCenter=true&width=600&height=30&lines=Passionate+about+complex+systems.+%F0%9F%A4%96;Exploring+the+world+through+simulations.+%F0%9F%8E%AE;Always+building%2C+learning+along+the+way.+%F0%9F%92%A1;Builder+of+high-impact+ideas.+%F0%9F%AA%90;Always+learning+one+more+technology.+%E2%9C%A8)](https://git.io/typing-svg)
 </div>
-
 <p align="center">
   <strong>Computer Science @ Tecnológico de Monterrey</strong><br>
   <sub>GPA 94.37/100 · Mexico</sub>
@@ -31,7 +30,6 @@
 <p align="center">
   <a href="https://github.com/iiRoy?tab=repositories"><strong>Explore all repositories →</strong></a>
 </p>
-<br>
 <h2 align="center">Tools & technologies</h2>
 
 <p align="center">
@@ -50,7 +48,6 @@
   <img src="https://img.shields.io/badge/Computer_Graphics-2563A6?style=flat-square" alt="Computer Graphics">
   <img src="https://img.shields.io/badge/Compilers-4F5D75?style=flat-square" alt="Compilers">
 </p>
-<br>
 <h2 align="center">Let's connect</h2>
 
 <p align="center">
