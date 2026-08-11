@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/rodrigologu/"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&perline=1"></a>
   <a href="mailto:rock.gule@gmail.com"><img alt="Email" src="https://skillicons.dev/icons?i=gmail&perline=1"></a>
   <a href="https://github.com/iiRoy?tab=repositories"><img alt="Github Repositories" src="https://skillicons.dev/icons?i=github&perline=1"></a>
+  <a href="https://rdglopz.vercel.app"><img alt="My Portfolio" src="https://skillicons.dev/icons?i=vercel&perline=1"></a>
 </p>
 
 <div align="center">
