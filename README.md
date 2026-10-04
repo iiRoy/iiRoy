@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=29C5AF&center=true&vCenter=true&width=600&height=30&lines=Passionate+about+complex+systems.+%F0%9F%A4%96;Exploring+the+world+through+simulations.+%F0%9F%8E%AE;Always+building%2C+learning+along+the+way.+%F0%9F%92%A1;Builder+of+high-impact+ideas.+%F0%9F%AA%90;Always+learning+one+more+technology.+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=BDFC58&center=true&vCenter=true&width=600&height=30&lines=Passionate+about+complex+systems.+%F0%9F%A4%96;Exploring+the+world+through+simulations.+%F0%9F%8E%AE;Always+building%2C+learning+along+the+way.+%F0%9F%92%A1;Builder+of+high-impact+ideas.+%F0%9F%AA%90;Always+learning+one+more+technology.+%E2%9C%A8)](https://git.io/typing-svg)
 </div>
 <p align="center">
   <strong>Computer Science @ Tecnológico de Monterrey</strong><br>
